@@ -1,0 +1,268 @@
+*
+{
+  padding:0;
+  margin:0;
+  
+ 
+}
+html
+{
+  line-height:1.5rem;
+  
+}
+body
+{
+  
+  background: linear-gradient(#DCDCDC, #DCDCDC 42%, #C0C0C0, #C0C0C0 30%);
+  
+}
+.profile h1
+{
+  font-size:2.5rem;
+}
+h2
+{
+  font-size:1.3rem;
+  text-transform:uppercase;
+  border-top:1.5px dashed ;
+  border-bottom:1.5px dashed ;
+  padding:0.5rem  0;
+  margin-bottom:1.5rem;
+  margin-top :1.5rem;
+  
+}
+h3 
+{
+  font-size:1.2rem;
+
+ }
+p
+{
+  line-height:1.5;
+   text-align:justify;
+}
+section+section
+{
+  margin-top:1rem;
+  margin-bottom:1rem;
+}
+a
+{
+  text-decoration:none;
+  color:inherit;
+}
+.photo img
+{
+ border-radius:9999px; 
+  max-width:300px;
+  width: 80%;
+  margin-left:2rem;
+  margin-bottom:1.7rem;
+  margin-top:0.1rem;
+}
+ 
+.event
+{
+  display:grid;
+  grid-template-columns:40px 1fr;
+ 
+}
+
+
+.content
+{
+  margin-bottom:0.5rem;
+  padding-left:1rem;
+  border-left:1px solid;
+  margin-left:1rem;
+ 
+  
+}
+.resume
+{
+  display:grid;
+  grid-template-columns:38% 1fr;
+  grid-gap:4rem;
+  background-color:#FFFFFF;
+  padding:2rem;
+}
+.profile  h1
+{
+  margin-bottom:1rem;
+  margin-top:1rem;
+}
+.profile  h3
+{
+   border-top:1.5px dashed ;
+  border-bottom:1.5px dashed ;
+  padding:0.5rem 0;
+  margin-bottom:1.5rem;
+}
+.profile p
+{
+ margin-top:-1rem; 
+  margin-bottom:1.5rem; 
+}
+.contact li
+{
+  text-align:right;
+  padding:0.5rem 0;
+  
+}
+.contact li+li
+{
+  border-top:1px dashed;
+
+  padding:0.5rem 0;
+}
+.skills 
+{
+  margin-top:1.1rem;
+
+  
+}
+.skills h3
+{
+  margin-bottom:0.5rem;
+  margin-top:0.5rem;
+  
+}
+.contact ul
+{
+ list-style:none;
+}
+.skills ul
+{
+margin-left:1rem; 
+
+} 
+
+.languages ul
+{
+margin-left:1rem;  
+}
+.hobbies ul
+{
+margin-left:1rem;  
+}
+.project ul
+{
+margin-left:1rem;  
+}
+.certificates ul
+{
+margin-left:1rem;  
+}
+.A4
+{
+  width:210mm;
+  height:297mm;
+  
+ 
+  
+  
+}
+.profile
+{
+  margin-right:4rem;
+   margin-left:-4.8rem;
+   margin-bottom:5rem;
+   margin-top: -0.7rem;
+  
+}
+.phone
+{
+  padding: 1rem 0;
+  max-width:23px;
+  margin-bottom:-1.2rem;
+  margin-right:10.6rem;
+  margin-top:-0.3rem;
+  margin-left:-2rem;
+  
+}
+.mail
+{
+  
+  margin-bottom:-0.5rem;
+  max-width:28px;
+  margin-left:-20rem;
+  margin-right:3.7rem;
+}
+.location
+{
+  margin-right:10.4rem;
+  border-radius:1px; 
+  max-width:23px;
+  margin-bottom:-0.5rem;
+}
+.contact h2
+{
+margin-bottom:0.7rem;
+}
+.skills > ul
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  list-style:none;
+  margin-left:-0.1rem;
+}
+.contact
+{
+  margin-top: -1.3rem;
+}
+.education
+{
+  margin-top: -1.6rem;
+}
+.photo
+{
+  margin-top: -2rem;
+}
+.skills ul
+{
+list-style:none;
+
+}
+.pro ul
+{
+  list-style:url();
+ 
+  
+}
+.per ul
+{
+  list-style:url();
+}
+.professional
+{
+  border-bottom: 1px dashed;
+  margin-top: -2rem;
+  margin-bottom: 1.3rem;
+  padding:0.1rem 0;
+ 
+}
+.personal
+{
+  border-bottom: 1px dashed;
+  margin-top: -2rem;
+  margin-bottom: 1.3rem;
+  padding: 0.1rem 0;
+}
+.skills h3
+{
+  text-transform:uppercase;
+  font-size:1rem;
+  margin-top: 0.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
